@@ -1,0 +1,7 @@
+C:\Users\asp\Documents\hamza\hamza\bin\Debug\hamza.exe.config
+C:\Users\asp\Documents\hamza\hamza\bin\Debug\hamza.exe
+C:\Users\asp\Documents\hamza\hamza\bin\Debug\hamza.pdb
+C:\Users\asp\Documents\hamza\hamza\obj\Debug\hamza.csproj.AssemblyReference.cache
+C:\Users\asp\Documents\hamza\hamza\obj\Debug\hamza.csproj.CoreCompileInputs.cache
+C:\Users\asp\Documents\hamza\hamza\obj\Debug\hamza.exe
+C:\Users\asp\Documents\hamza\hamza\obj\Debug\hamza.pdb
